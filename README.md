@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-- Build a Tic-Tac-Toe commandline game as I practice my python.
+- A commandline version of Tic-Tac-toe
